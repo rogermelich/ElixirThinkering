@@ -19,5 +19,5 @@ elixir(function(mix) {
         "hello2.js"
     ]);
 
-    mix.browserify("js/main.js");
+    mix.browserify("main.js");
 });
